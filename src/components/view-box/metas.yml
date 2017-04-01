@@ -41,6 +41,7 @@ slots:
     zh-CN: '主体内容，可滚动的区域'
   bottom:
     zh-CN: 底部区域，Tabbar可以使用该slot
+props:
   body-padding-top:
     zh-CN: 主体的`padding-top`值，当底部存在`x-header`等`absolute`定位元素时需要设置
   body-padding-bottom:
